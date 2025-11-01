@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi there, I'm Ayushman! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Hi there,I am AYUSHMAN!</h1>
 
 <p align="center">
   🎓 1st-year <b>Information Technology student</b> exploring Programming, AI, and Blockchain.  
