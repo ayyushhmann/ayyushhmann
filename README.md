@@ -7,7 +7,7 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ayyushhmann&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
 </p>
 
 <!-- Typing Animation -->
@@ -55,12 +55,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyushhmann&layout=compact&theme=radical" alt="Top Languages" height="165">
 </p>
 
-> 📝 *Replace `YOUR_USERNAME` above with your actual GitHub username — e.g., `ayushman123`.*
+
 
 ---
 
 ### 💬 Quote I Live By  
-> 🌱 _"I’m not just learning to code — I’m coding to learn."_  
+> 🌱 _I’m not just learning to code — I’m coding to learn._  
 
 ---
 
