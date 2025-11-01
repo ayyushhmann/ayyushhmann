@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ayushman! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+#  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi,I am AYUSHMAN!
 
 🎓 I'm a **1st-year Computer Science student** exploring the world of programming, AI, and blockchain.
 
@@ -23,11 +23,11 @@
 
 ### 📊 My GitHub Stats
 
-![Ayushman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Ayushman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayyushhmann&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayyushhmann&layout=compact&theme=radical)
 
-*(Replace `YOUR_USERNAME` above with your actual GitHub username — e.g., `ayushman123`)*
+
 
 ---
 
