@@ -1,6 +1,6 @@
 #  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi,I am AYUSHMAN!
 
-🎓 I'm a **1st-year Computer Science student** exploring the world of programming, AI, and blockchain.
+🎓 I'm a **1st-year information technology (IT) student** exploring the world of programming, AI,ML, and blockchain.
 
 ---
 
