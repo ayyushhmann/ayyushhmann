@@ -37,7 +37,7 @@
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 - Master Python & C++ fundamentals  
 - Build ML-based prediction models  
 - Learn Solidity & Web3 smart contracts  
@@ -64,13 +64,13 @@
 - 🔹 Python mini tools  
 - 🔹 C++ data structure problems  
 - 🔹 Beginner ML models  
-- 🔹 Web3 Hello World smart contract  
+- 🔹 Web3 smart contract  
 - 🔹 Personal portfolio (building soon…)  
 
 ---
 
 ## 🧠 Fun Facts  
-✨ I love neon cyberpunk aesthetics  
+✨ delusional self beleif,Irrational optimism.
 🎮 Gamer + Problem Solver  
 🌀 I break things just to learn how to fix them  
 🔥 “Slow progress is still progress”  
@@ -84,7 +84,7 @@
 
 ---
 
-## 🛠 Tech Stack (Neon Glow)
+## 🛠 Tech Stack 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-00F0FF?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00F0FF?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>
@@ -98,7 +98,7 @@
 
 ---
 
-## 📊 GitHub Stats (Working)
+## 📊 GitHub Stats
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayyushhmann&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
@@ -109,14 +109,14 @@
 
 ---
 
-## 🔥 Neon GitHub Streak (Working)
+## 🔥 GitHub Streak 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ayyushhmann&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Cyber Trophies (Working)
+## 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ayyushhmann&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
@@ -155,11 +155,11 @@
 </p>
 
 <h2 align="center" style="color:#00F0FF; text-shadow: 0 0 20px #00F0FF;">
-✨ "Code in silence. Let your neon glow speak." ✨  
+✨ "fix the bugs,dont let them bite." ✨  
 </h2>
 
 <p align="center" style="color:#00F0FF;">
-⚡ More cyberpunk projects loading...
+⚡ irrational optimism,delusional self beleif...
 </p>
 
 <p align="center">
