@@ -1,3 +1,7 @@
+ing+AI+and+Blockchain;Building+Web3+Projects;Future+ML+Engineer+in+Making" alt="Typing SVG" />
+</p>
+
+---
 <!-- Profile Header -->
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">Hi there,I am AYUSHMAN!</h1>
 
@@ -12,11 +16,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Learning+C;Exploring+AI+and+Blockchain;Building+Web3+Projects;Future+ML+Engineer+in+Making" alt="Typing SVG" />
-</p>
-
----
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Learning+C;Explor
 ### 💡 Currently Learning  
 - 🧠 C Programming (building logic and fundamentals)  
 - 🌍 Git & GitHub (open-source journey begins!)  
