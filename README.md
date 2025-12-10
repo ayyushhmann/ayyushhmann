@@ -1,96 +1,113 @@
 
-<!-- HEADER -->
-<h1 align="center">👋 Hello, I am Ayushman 🤝</h1>
+<!-- NEON HEADER -->
+<h1 align="center" style="color:#00F0FF; text-shadow: 0 0 10px #00F0FF, 0 0 20px #00F0FF;">👋 Hello, I am Ayushman 🤝</h1>
 
-<!-- SLIDING ANIMATED TEXT -->
+<!-- NEON ANIMATED SLIDE TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C9FF&center=true&vCenter=true&width=600&lines=Python+Developer;C%2B%2B+Programmer;Future+ML+Engineer;Web3+Developer;First+Year+Student;Welcome+to+My+GitHub+Profile!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F0FF&center=true&vCenter=true&width=650&lines=Python+Developer;C%2B%2B+Programmer;Future+ML+Engineer;Web3+Developer;Cyberpunk+Learner+⚡;Welcome+to+My+Neon+GitHub+Space!+🚀" />
 </p>
 
-<!-- PROFILE VIEWS -->
+<!-- NEON PROFILE VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=NEON+Profile+Views&color=00F0FF&style=flat" />
 </p>
 
 ---
 
-## 🌟 About Me  
-- 🎓 First-year student  
-- 🐍 Learning Python & C++  
-- 🌱 Future ML Engineer  
-- 🌐 Exploring Web3 and blockchain basics  
-- 🚀 Trying to learn something new every day  
+<!-- NEON DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+</p>
+
+## ⚡ About Me  
+- 🎓 First-year student diving into tech  
+- 🐍 Python & C++ learner  
+- 🤖 Future ML Engineer in progress  
+- 🌐 Web3 & blockchain curious  
+- 🧠 Loves tech, logic & neon vibes  
+- 🚀 Building myself one commit at a time  
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+<!-- NEON DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+</p>
+
+## 🛠️ Tech Stack (Neon Edition)
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=web3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-00F0FF?style=for-the-badge&logo=python&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/C++-00F0FF?style=for-the-badge&logo=c%2B%2B&logoColor=black&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/HTML5-FF00F7?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-00F0FF?style=for-the-badge&logo=css3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7FF00?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Web3-8A2BE2?style=for-the-badge&logo=web3.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F94C10?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+<!-- NEON DIVIDER -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 </p>
 
----
-
-## 🔥 Streak Stats  
+## 💹 GitHub Stats (Neon Glow)
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00F0FF&title_color=00F0FF" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF" height="170px"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🔥 Neon Streak Stats  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com/?user=your-username&theme=neon-dark&hide_border=true" />
 </p>
 
 ---
+
+## 🏆 CyberTrophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&column=6" />
+</p>
+
+---
+
+<!-- NEON DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+</p>
 
 ## 🌐 Connect With Me  
 <p align="left">
 
-<!-- LINKEDIN -->
 <a href="https://www.linkedin.com/in/your-linkedin/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<!-- GMAIL -->
 <a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-FF3131?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- DISCORD -->
 <a href="https://discordapp.com/users/your-discord-id">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<!-- INSTAGRAM -->
 <a href="https://www.instagram.com/your-instagram/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-FF00F7?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## ✨ Thanks for Visiting!
-🌟 *More amazing projects coming soon… stay tuned!*  
+<!-- NEON DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+</p>
 
+<h2 align="center" style="color:#00F0FF; text-shadow: 0 0 10px #00F0FF;">✨ Thanks for Visiting My Neon Universe ✨</h2>
 
-
-
-
-  
+<p align="center">⚡ More futuristic projects coming soon...</p>
