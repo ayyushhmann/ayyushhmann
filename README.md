@@ -1,86 +1,79 @@
-
 <!-- TOP ANIMATED NEON BORDER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kyechan99/catppuccin-readme-border/main/assets/border-neon.gif" width="100%" />
 </p>
 
-<!-- HEADER -->
-<h1 align="center" style="color:#00F0FF; text-shadow: 0 0 12px #00F0FF;">👋 Hello, I am Ayushman 🤝</h1>
+<h1 align="center" style="color:#00F0FF; text-shadow: 0 0 12px #00F0FF;">
+  👋 Hello, I am Ayushman 🤝
+</h1>
 
 <!-- SLIDING NEON TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3000&color=00F0FF&center=true&vCenter=true&width=650&lines=Python+Developer;C%2B%2B+Programmer;Future+ML+Engineer;Web3+Developer;Cyberpunk+Tech+Explorer+⚡;Welcome+to+My+Neon+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3000&color=00F0FF&center=true&vCenter=true&width=700&lines=Python+Developer;C%2B%2B+Programmer;Future+ML+Engineer;Web3+Developer;Tech+Explorer+⚡;Welcome+to+My+Neon+Universe!" />
 </p>
 
 <!-- PROFILE VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=NEON+PROFILE+VIEWS&color=00F0FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ayyushhmann&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge" />
 </p>
 
 ---
 
-<!-- NEON DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="80%">
-</p>
-
-
-# ⚡ About Me  
+## ⚡ About Me  
 <div align="center" style="
-  border: 2px solid #00F0FF; 
-  padding: 20px; 
-  border-radius: 15px; 
+  border: 2px solid #00F0FF;
+  padding: 20px;
+  border-radius: 15px;
   box-shadow: 0 0 15px #00F0FF, 0 0 30px #00F0FF;
 ">
   
-🎓 **First-year engineering student**  
-🐍 Learning Python, C++, ML basics  
-🌐 Exploring Web3, blockchain & modern tech  
-🧠 Passionate about AI, cybersecurity & futuristic tech  
-🚀 Building myself one commit at a time  
+🎓 First-year engineering student  
+🐍 Learning Python, C++, ML  
+🌐 Exploring Web3 & blockchain  
+⚡ Passionate about AI, cybersecurity & futuristic tech  
+🚀 Improving every day, one commit at a time  
 
 </div>
 
 ---
 
-## 🎯 **My Goals for 2025**
-- ⚡ Build strong fundamentals in Python & C++  
-- 🤖 Make ML projects (image, NLP, prediction models)  
-- 🔗 Learn more about blockchain/Web3  
-- 🛠️ Contribute to open-source  
-- 🚀 Build a personal portfolio website  
+## 🎯 Goals for 2025
+- Master Python & C++ fundamentals  
+- Build ML-based prediction models  
+- Learn Solidity & Web3 smart contracts  
+- Create open-source contributions  
+- Build my portfolio website  
+- Make at least 25+ GitHub projects  
 
 ---
 
-## 📚 **Currently Learning**
-- Python automation  
-- C++ basics & STL  
-- Machine Learning Foundations  
-- Web3 smart contract basics (Solidity)  
-- Git & GitHub workflow  
+## 📚 Currently Learning
+- Python scripting  
+- C++ DSA  
+- Basic Machine Learning (Numpy, Pandas)  
+- Web3 fundamentals  
+- Git + GitHub workflow  
 
 ---
 
-<!-- NEON DIVIDER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="90%">
 </p>
 
-## 🚀 **Featured Projects (Will Add More Soon)**  
-> *(Replace when you upload your projects)*  
-
-🔹 **Python Mini Projects**  
-🔹 **C++ DSA Practice**  
-🔹 **Web3 Hello World Smart Contract**  
-🔹 **Beginner ML Models**  
+## 🚀 Projects (More Coming Soon)
+- 🔹 Python mini tools  
+- 🔹 C++ data structure problems  
+- 🔹 Beginner ML models  
+- 🔹 Web3 Hello World smart contract  
+- 🔹 Personal portfolio (building soon…)  
 
 ---
 
-## 🧩 Fun Facts  
-✨ I love neon cyberpunk themes  
-🎮 Gamer + tech nerd  
-🌀 I debug more than I code 😆  
-🔥 “Learning something daily keeps stagnation away”  
+## 🧠 Fun Facts  
+✨ I love neon cyberpunk aesthetics  
+🎮 Gamer + Problem Solver  
+🌀 I break things just to learn how to fix them  
+🔥 “Slow progress is still progress”  
 
 ---
 
@@ -91,7 +84,7 @@
 
 ---
 
-## 🛠️ **Tech Stack (Neon Glow Edition)**  
+## 🛠 Tech Stack (Neon Glow)
 <p align="center">
 <img src="https://img.shields.io/badge/Python-00F0FF?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00F0FF?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>
@@ -105,66 +98,58 @@
 
 ---
 
-## ⭐ Badges & Achievements  
+## 📊 GitHub Stats (Working)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayyushhmann&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyushhmann&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
+
+</div>
+
+---
+
+## 🔥 Neon GitHub Streak (Working)
 <p align="center">
-  <img src="https://img.shields.io/badge/Beginner%20Coder-00F0FF?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Learner-FF00F7?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Future%20ML%20Engineer-F7FF00?style=for-the-badge&logo=tensorflow&logoColor=black" />
+  <img src="https://streak-stats.demolab.com?user=ayyushhmann&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<!-- CYBER BORDER -->
+## 🏆 Cyber Trophies (Working)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/catppuccin-readme-border/main/assets/border-neon.gif" width="100%" />
-</p>
-
-## 📊 **GitHub Stats (Neon Edition)**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00F0FF&title_color=00F0FF" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF" height="170px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayyushhmann&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🔥 **Neon Streak Flames**
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=neon-dark&hide_border=true" />
-</p>
-
----
-
-## 🏆 **Cyber Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&column=6" />
-</p>
-
----
-
-## 🌐 **Connect With Me (Neon Style)**  
+## 🌐 Connect With Me
 <p align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="https://www.linkedin.com/in/ayushman4real/">
   <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:ayushmanp108@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF3131?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://discordapp.com/users/your-discord-id">
+<a href="https://discord.com/channels/1447240091331199008/1447240092153548902">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/your-instagram/">
+<a href="https://www.instagram.com/ayyushhmann/">
   <img src="https://img.shields.io/badge/Instagram-FF00F7?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/ayushman4real">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<!-- FINAL ANIMATED NEON BORDER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kyechan99/catppuccin-readme-border/main/assets/border-neon.gif" width="100%" />
 </p>
@@ -173,9 +158,11 @@
 ✨ "Code in silence. Let your neon glow speak." ✨  
 </h2>
 
-<p align="center" style="color:#00F0FF;">⚡ More cyberpunk projects loading...</p>
+<p align="center" style="color:#00F0FF;">
+⚡ More cyberpunk projects loading...
+</p>
 
-<!-- END BORDER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rocketseat-github-challenge/master/img/animated-border.gif" width="100%" />
 </p>
+
